@@ -1,0 +1,14 @@
+prod_nbr,size,color,pass_count,warning_count,fail_count
+baby-mw,Medium,White,22,4,14
+adult-lw,Large,White,21,11,9
+child-lg,Large,Green,21,10,9
+child-sg,Small,Green,24,4,12
+baby-mc,Medium,Clear,24,6,10
+child-lw,Large,White,24,6,10
+test,test,test,3,4,2
+adult-mg,Medium,Green,25,5,10
+child-mw,Medium,White,25,4,11
+adult-mw,Medium,White,23,5,11
+adult-lg,Large,Green,23,2,15
+child-mg,Medium,Green,24,3,13
+adult-sw,Small,White,21,1,18

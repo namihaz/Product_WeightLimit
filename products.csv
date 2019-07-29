@@ -1,0 +1,14 @@
+prod_nbr,min,max,size,color
+adult-lg,100,400,Large,Green
+adult-lw,100,400,Large,White
+child-lg,50,150,Large,Green
+child-lw,50,150,Large,White
+adult-mg,100,300,Medium,Green
+adult-mw,100,300,Medium,White
+baby-mc,10,30,Medium,Clear
+baby-mw,10,30,Medium,White
+child-mg,50,100,Medium,Green
+child-mw,50,100,Medium,White
+adult-sw,100,200,Small,White
+child-sg,50,90,Small,Green
+test,100,200,test,test
